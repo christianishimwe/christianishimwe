@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @christianishimwe
+- 👋 Hi, I’m @christianishimwe. I am a Undergrad computer Science Student at the University of Pennyslvania.
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Ocaml, a functional programming language, and expanding my knowledge of object-oriented programming through a deep learning of Java.
 - 💞️ I’m looking to collaborate on object-oriented programming and artificial intelligence projects.
