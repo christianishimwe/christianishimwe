@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @christianishimwe. I am a Undergrad computer Science Student at the University of Pennyslvania.
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Ocaml, a functional programming language, and expanding my knowledge of object-oriented programming through a deep learning of Java.
-- 💞️ I’m looking to collaborate on object-oriented programming and artificial intelligence projects.
+- 🌱 Current Courses: Applied Machine learning, Software Development, Database, and Introduction to Algorithms
+- 💞️ I am currently self-working on a technological startup, LALA, coming soon .....
 - 📫 How to reach me: send me an email on ishimwe@seas.upenn.edu or christianishimwe2003@gmail.com.
 
 <!---
